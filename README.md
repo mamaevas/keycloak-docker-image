@@ -1,4 +1,5 @@
 <h3>Dockerfile for keycloak server with external database (mariaDB)</h3>  
+  
 - Install docker on VM and run it as a service   
   
 `sudo systemctl enable docker`  
